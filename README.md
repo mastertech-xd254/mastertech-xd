@@ -27,17 +27,27 @@
 
 ### 𝗙𝗢𝗥 𝗢𝗡𝗘-𝗧𝗔𝗣 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
 
-1. **If you don’t have a Heroku account… [Create one](https://signup.heroku.com/)**
-2. **Already have a Heroku account? [Deploy on Heroku](https://dashboard.heroku.com/new?template=https://github.com/mastertech-xd254/mastertech-xd)**
+1. **If you don’t have a Heroku account… [Create one](https://signup.heroku.com/)**  
+   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="40"/></a>
+
+2. **Already have a Heroku account? [Deploy on Heroku](https://dashboard.heroku.com/new?template=https://github.com/mastertech-xd254/mastertech-xd)**  
+   <a href="https://dashboard.heroku.com/new?template=https://github.com/mastertech-xd254/mastertech-xd"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON%20HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="40"/></a>
 
 ---
 
 ### 𝗢𝗧𝗛𝗘𝗥 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠𝗦 𝗧𝗛𝗔𝗧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗙𝗥𝗘𝗘 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
 
-- **[Render](https://render.com/)** [![Render](https://upload.wikimedia.org/wikipedia/commons/e/e2/Render_logo.svg)](https://render.com/)
-- **[Vercel](https://vercel.com/)** [![Vercel](https://upload.wikimedia.org/wikipedia/commons/a/ab/Vercel_logo.svg)](https://vercel.com/)
-- **[Glitch](https://glitch.com/)** [![Glitch](https://upload.wikimedia.org/wikipedia/commons/c/c8/Glitch_logo.svg)](https://glitch.com/)
-- **[Railway](https://railway.app/)** [![Railway](https://upload.wikimedia.org/wikipedia/commons/5/5b/Railway_logo.svg)](https://railway.app/)
+- **[Render](https://render.com/)**  
+   <a href="https://render.com/"><img title="DEPLOY-ON RENDER" src="https://img.shields.io/badge/DEPLOY-ON%20RENDER-h?color=green&style=for-the-badge&logo=render" width="220" height="40"/></a>
+
+- **[Vercel](https://vercel.com/)**  
+   <a href="https://vercel.com/"><img title="DEPLOY-ON VERCEL" src="https://img.shields.io/badge/DEPLOY-ON%20VERCEL-h?color=blue&style=for-the-badge&logo=vercel" width="220" height="40"/></a>
+
+- **[Glitch](https://glitch.com/)**  
+   <a href="https://glitch.com/"><img title="DEPLOY-ON GLITCH" src="https://img.shields.io/badge/DEPLOY-ON%20GLITCH-h?color=orange&style=for-the-badge&logo=glitch" width="220" height="40"/></a>
+
+- **[Railway](https://railway.app/)**  
+   <a href="https://railway.app/"><img title="DEPLOY-ON RAILWAY" src="https://img.shields.io/badge/DEPLOY-ON%20RAILWAY-h?color=blue&style=for-the-badge&logo=railway" width="220" height="40"/></a>
 
 ---
 
@@ -58,6 +68,7 @@
 ## 🏆 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗔𝗦𝗧𝗘𝗥𝗣𝗘𝗔𝗖𝗘 𝗧𝗘𝗖𝗛
 
 **DM for serious business or inquiries:**
+
 [![Contact Masterpeace](https://img.shields.io/badge/CONTACT-MASTERPEACE-h?color=black&style=for-the-badge&logo=audi)](https://Wa.me/254743727510)
 
 ---
@@ -67,10 +78,11 @@
 #### This README now includes:
 
 - **Buttons** with **links** for easy **deployment** to platforms like **Heroku**, **Render**, **Vercel**, **Glitch**, and **Railway**.
-- **Visual buttons** for each platform.
+- **Styled buttons** for each platform, **logos** included.
+- **Visual buttons** with platform logos.
 - **Smart features**, achievements, and stats to highlight the bot's capabilities.
 - Contact info for **Masterpeace Tech**.
 
-The **links** for deploying the bot are now all working properly, and the **deployment buttons** should take users directly to the respective platforms for an easy deployment process.
+---
 
-Let me know if anything else is needed!
+This should now properly reflect the **styles** and **logos** you're looking for. Let me know if everything looks good or if you'd like further adjustments!
