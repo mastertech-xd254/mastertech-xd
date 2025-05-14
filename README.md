@@ -26,14 +26,14 @@
 
 <
 
- <p align="center"><img src="https://profile-counter.glitch.me/{MASTERTECH-MD}/count.svg" alt="Masterpeace:: Visitor's Count" old_src="https://profile-counter.glitch.me/{masterpeace}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{MASTERTECH-XD}/count.svg" alt="Masterpeace:: Visitor's Count" old_src="https://profile-counter.glitch.me/{masterpeace}/count.svg" /></p>
 
 
 
 
 
 
-## HOW TO GET MASTERTECH-MD BOT
+## HOW TO GET MASTERTECH-XD BOT
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -41,7 +41,7 @@
 
   
    
-   <a href="https://github.com/mastertech-md/Mastertech/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/mastertech-xd254/mastertech-xd/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -71,7 +71,7 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/mastertech-md/Mastertech"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/mastertech-xd254/mastertech-xd"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
