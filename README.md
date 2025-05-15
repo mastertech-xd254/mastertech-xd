@@ -73,4 +73,16 @@
 
 ---
 
+## 🧠 𝗠𝗔𝗦𝗧𝗘𝗥𝗧𝗘𝗖𝗛 𝗧𝗘𝗖𝗛 𝗖𝗥𝗘𝗔𝗧𝗢𝗥
+
+Made with love and fire by: **𝗠𝗮𝘀𝘁𝗲𝗿𝗽𝗲𝗮𝗰𝗲 𝗘𝗹𝗶𝘁𝗲**
+
+[![Contact Masterpeace](https://img.shields.io/badge/CONTACT-MASTERPEACE-black?style=for-the-badge&logo=whatsapp)](https://Wa.me/254743727510)
+
+---
+
+> 𝗦𝗧𝗔𝗥 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 ⭐ | 𝗙𝗢𝗥𝗞 𝗜𝗧 🍴 | 𝗦𝗛𝗔𝗥𝗘 𝗧𝗛𝗘 𝗩𝗜𝗕𝗘𝗦
+
+---
+
 ---
