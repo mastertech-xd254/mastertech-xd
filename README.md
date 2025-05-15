@@ -87,6 +87,24 @@ Made with love and fire by: **𝗠𝗮𝘀𝘁𝗲𝗿𝗽𝗲𝗮𝗰𝗲 𝗘�
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mastertech-xd254&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mastertech-xd254&theme=github-dark)
+👨‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥
 
+> Developed and maintained by:
+
+
+
+𝗠𝗮𝘀𝘁𝗲𝗿𝗽𝗲𝗮𝗰𝗲 𝗘𝗹𝗶𝘁𝗲
+
+
+
+---
+
+🤝 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗢𝗥𝗦
+
+Thanks to these amazing people who helped make this project awesome!
+
+
+
+> Want to contribute? Fork the repo, make changes, and send a pull request!
+>
 ---
