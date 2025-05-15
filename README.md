@@ -52,9 +52,7 @@
 ---
 
 ## 📊 𝗥𝗘𝗣𝗢 𝗦𝗧𝗔𝗧𝗦
-
-![Stats](https://github-readme-stats.vercel.app/api/pin/?username=mastertech-md&repo=Mastertech&show_owner=true&theme=dark)
-
+![Stats](https://github-readme-stats.vercel.app/api/pin/?username=mastertech-xd254&repo=mastertech-xd&show_owner=true&theme=dark)
 ---
 
 ## 🏅 𝗕𝗢𝗧 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
