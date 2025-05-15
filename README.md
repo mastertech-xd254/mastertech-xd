@@ -50,9 +50,11 @@
    <a href="https://railway.app/"><img title="DEPLOY-ON RAILWAY" src="https://img.shields.io/badge/DEPLOY-ON%20RAILWAY-h?color=blue&style=for-the-badge&logo=railway" width="220" height="40"/></a>
 
 ---
+## 📊 𝗥𝗘𝗣𝗢 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 𝗦𝗧𝗔𝗧𝗦
 
-## 📊 𝗥𝗘𝗣𝗢 𝗦𝗧𝗔𝗧𝗦
-![Stats](https://github-readme-stats.vercel.app/api/pin/?username=mastertech-xd254&repo=mastertech-xd&show_owner=true&theme=dark)
+![Repo Activity](https://github-readme-stats.vercel.app/api?username=mastertech-xd254&repo=mastertech-xd&show_icons=true&theme=dark)
+
+![GitHub Contributors](https://contrib.rocks/image?repo=mastertech-xd254/mastertech-xd)
 ---
 
 ## 🏅 𝗕𝗢𝗧 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
