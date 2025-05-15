@@ -105,6 +105,7 @@ Thanks to these amazing people who helped make this project awesome!
 
 
 
-> Want to contribute? Fork the repo, make changes, and send a pull request!
+> Want to contribute? Fork the repo, and send a pull request!
 >
+> 
 ---
