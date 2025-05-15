@@ -2,9 +2,9 @@
 
 ## ✅ 𝗧𝗛𝗘 𝗕𝗢𝗧 𝗜𝗦 𝟭𝟬𝟬% 𝗦𝗔𝗙𝗘 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨 💯
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=\u25A7+\u25A7+\u25A7+\u25A7+\u25A7+\u25A7+\u25A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=2000&color=960FF&center=true&vCenter=true&width=815&height=60&lines=mastertec~md+mastertech~md+mastertec~md+mastertech~md+mastertec~md+mastertech~md+mastertec~md)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=MASTERTECH+MD+%E2%97%95+CREATED+BY+MASTERPEACE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=2000&color=6008OF&center=true&vCenter=true&width=815&height=60&lines=MASTERTECH+MD+%E2%97%95+CREATED+BY+MASTERPEACE)](https://git.io/typing-svg)
 
 <p align="center"><img src="https://i.ibb.co/jvTFhLwF/IMG-20250215-140630.jpg" width="700" height="1000"/></p>
 
