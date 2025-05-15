@@ -85,4 +85,8 @@ Made with love and fire by: **𝗠𝗮𝘀𝘁𝗲𝗿𝗽𝗲𝗮𝗰𝗲 𝗘�
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mastertech-xd254&theme=dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mastertech-xd254&theme=github-dark)
+
 ---
