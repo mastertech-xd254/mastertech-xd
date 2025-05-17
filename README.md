@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=2000&color=FF1493&center=true&vCenter=true&width=815&height=60&lines=𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗔𝗦𝗧𝗘𝗥𝗣𝗘𝗔𝗖𝗘~𝗘𝗟𝗜𝗧𝗘)](https://git.io/typing-svg)
 
-<p align="center"><img src="https://ibb.co/gM2Q79vd" width="700" height="1000"/></p>
+<p align="center"><img src="https://i.ibb.co/SXjHxyQc/file-000000001e4461fba241d1e5cf410170.png" width="700" height="1000"/></p>
 
 ---
 
