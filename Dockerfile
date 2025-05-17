@@ -1,24 +1,28 @@
+# Use Node.js LTS with Debian Buster
 FROM node:lts-buster
 
+# Install system dependencies
 RUN apt-get update && \
-  apt-get install -y \
-  ffmpeg \
-  imagemagick \
-  webp && \
-  apt-get upgrade -y && \
-  npm i pm2 -g && \
-  rm -rf /var/lib/apt/lists/*
-  
-RUN git clone https://github.com/mastertech-md/Mastertech.git  /root/ToshTech
-WORKDIR /root/toshtech/
+    apt-get install -y ffmpeg imagemagick webp && \
+    apt-get upgrade -y && \
+    npm install -g pm2 && \
+    rm -rf /var/lib/apt/lists/*
 
+# Clone your bot repository
+RUN git clone https://github.com/mastertech-md/Mastertech.git /root/mastertech
 
+# Set working directory
+WORKDIR /root/mastertech
+
+# Install npm dependencies
 COPY package.json .
-RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps
 
+# Copy the rest of the project files
 COPY . .
 
+# Expose the desired port (change if needed)
 EXPOSE 5000
 
-CMD ["npm", "run" , "masterpeace.js"]
+# Start the bot using npm script or direct file
+CMD ["node", "masterpeace.js"]
