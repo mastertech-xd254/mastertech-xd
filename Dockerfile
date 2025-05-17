@@ -9,7 +9,7 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 
 # Clone your bot repository
-RUN git clone https://github.com/mastertech-md/Mastertech.git /root/mastertech
+RUN git clone https://github.com/mastertech-xd254/mastertech-xd.git /root/mastertech
 
 # Set working directory
 WORKDIR /root/mastertech
