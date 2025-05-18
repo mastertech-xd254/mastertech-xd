@@ -53,7 +53,7 @@
 
 ### 🖥️ 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗖𝗢𝗗𝗘 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥
 
-[![Session Code Generator](https://img.shields.io/badge/SESSION-CODE_GENERATOR-blue?style=for-the-badge&logo=internet-explorer)](https://your-testing-link.com)
+[![Session Code Generator](https://img.shields.io/badge/SESSION-CODE_GENERATOR-blue?style=for-the-badge&logo=internet-explorer)](https://elite-sessions-pair.onrender.com/)
 
 ---
 
