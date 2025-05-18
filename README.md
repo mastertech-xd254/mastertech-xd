@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=2000&color=8A2BE2&center=true&vCenter=true&width=815&height=60&lines=𝗠𝗔𝗦𝗧𝗘𝗥𝗧𝗘𝗖𝗛~𝗠𝗗+𝗠𝗔𝗦𝗧𝗘𝗥𝗧𝗘𝗖𝗛~𝗠𝗗+𝗠𝗔𝗦𝗧𝗘𝗥𝗧𝗘𝗖𝗛~𝗠𝗗+𝗠𝗔𝗦𝗧𝗘𝗥𝗧𝗘𝗖𝗛~𝗠𝗗)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=2000&color=FF1493&center=true&vCenter=true&width=815&height=60&lines=𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗔𝗦𝗧𝗘𝗥𝗣𝗘𝗔𝗖𝗘~𝗘𝗟𝗜𝗧𝗘)](https://git.io/typing-svg)
-
+---
 <p align="center"><img src="https://i.ibb.co/yBYGfQSH/file-000000006ab8622f84f751fde440202a.png" width="700" height="800"/></p>
 
 ---
@@ -55,7 +55,7 @@
 ![Repo Activity](https://github-readme-stats.vercel.app/api?username=mastertech-xd254&repo=mastertech-xd&show_icons=true&theme=dark)
 
 ![GitHub Contributors](https://contrib.rocks/image?repo=mastertech-xd254/mastertech-xd)
----
+
 
 ## 🏅 𝗕𝗢𝗧 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
 
@@ -70,15 +70,15 @@
 **DM for serious business or inquiries:**
 
 [![Contact Masterpeace](https://img.shields.io/badge/CONTACT-MASTERPEACE-h?color=black&style=for-the-badge&logo=audi)](https://Wa.me/254743727510)
-
 ---
+
 
 ## 🧠 𝗠𝗔𝗦𝗧𝗘𝗥𝗧𝗘𝗖𝗛 𝗧𝗘𝗖𝗛 𝗖𝗥𝗘𝗔𝗧𝗢𝗥
 
 Made with love and fire by: **𝗠𝗮𝘀𝘁𝗲𝗿𝗽𝗲𝗮𝗰𝗲 𝗘𝗹𝗶𝘁𝗲**
 
-[![Contact Masterpeace](https://img.shields.io/badge/CONTACT-MASTERPEACE-black?style=for-the-badge&logo=whatsapp)](https://Wa.me/254743727510)
 
+[![Contact Masterpeace](https://img.shields.io/badge/CONTACT-MASTERPEACE-black?style=for-the-badge&logo=whatsapp)](https://Wa.me/254743727510)
 ---
 
 > 𝗦𝗧𝗔𝗥 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 ⭐ | 𝗙𝗢𝗥𝗞 𝗜𝗧 🍴 | 𝗦𝗛𝗔𝗥𝗘 𝗧𝗛𝗘 𝗩𝗜𝗕𝗘𝗦
@@ -92,9 +92,7 @@ Made with love and fire by: **𝗠𝗮𝘀𝘁𝗲𝗿𝗽𝗲𝗮𝗰𝗲 𝗘�
 > Developed and maintained by:
 
 
-
 𝗠𝗮𝘀𝘁𝗲𝗿𝗽𝗲𝗮𝗰𝗲 𝗘𝗹𝗶𝘁𝗲
-
 
 
 ---
